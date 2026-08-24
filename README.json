@@ -1,7 +1,959 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code !!!\nFollow me on LinkedIn :\nThis list is continuously updated. - You can take pull requests and contribute. All Links are tested and working fine. Please ping if any link doesn't work",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1",
+          "description": "365 Days Computer Vision Learning 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 331881611,
+            "language": null,
+            "last_commit": "2022-06-03T05:43:52Z",
+            "owner": "ashishpatel26",
+            "repo": "365-Days-Computer-Vision-Learning-Linkedin-Post",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2",
+          "description": "125+ NLP Language Models Treasure of Transformers 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 437856913,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-01T12:14:19Z",
+            "owner": "ashishpatel26",
+            "repo": "Treasure-of-Transformers",
+            "stars": 1179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3",
+          "description": "Andrew NG ML notes 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190886741,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-01T12:17:07Z",
+            "owner": "ashishpatel26",
+            "repo": "Andrew-NG-Notes",
+            "stars": 3793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "33",
+          "description": "500 + Top Deep learning Codes 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57182702,
+            "language": "Python",
+            "last_commit": "2026-07-15T02:19:53Z",
+            "owner": "aymericdamien",
+            "repo": "TopDeepLearning",
+            "stars": 6287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "34",
+          "description": "500 + Machine learning Codes 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21872392,
+            "language": "Python",
+            "last_commit": "2026-08-21T10:11:51Z",
+            "owner": "josephmisiti",
+            "repo": "awesome-machine-learning",
+            "stars": 74141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "36",
+          "description": "1000+ Computer vision codes 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29357796,
+            "language": null,
+            "last_commit": "2024-05-17T14:24:27Z",
+            "owner": "jbhuang0604",
+            "repo": "awesome-computer-vision",
+            "stars": 23517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "37",
+          "description": "300 + Industry wise Real world projects with code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192775954,
+            "language": null,
+            "last_commit": "2023-12-12T13:04:58Z",
+            "owner": "ashishpatel26",
+            "repo": "Real-time-ML-Project",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "38",
+          "description": "1000 + Python Project Codes 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21289110,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:42:58Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 315798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "39",
+          "description": "363 + NLP Project with Code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145553672,
+            "language": "Python",
+            "last_commit": "2024-05-10T07:38:24Z",
+            "owner": "fighting41love",
+            "repo": "funNLP",
+            "stars": 82638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "40",
+          "description": "50 + Code ML Models (For iOS 11) Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101052455,
+            "language": "Python",
+            "last_commit": "2025-06-17T05:43:09Z",
+            "owner": "likedan",
+            "repo": "Awesome-CoreML-Models",
+            "stars": 7044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "41",
+          "description": "360+ Pretrained Model Projects for Image, text, Audio and Video 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1008378465,
+            "language": "Python",
+            "last_commit": "2025-06-26T14:09:37Z",
+            "owner": "PaddlePaddle",
+            "repo": "PaddleHub",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "42",
+          "description": "50 + Graph Classification Project List 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140943444,
+            "language": "Python",
+            "last_commit": "2023-03-18T12:10:08Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-graph-classification",
+            "stars": 4798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "43",
+          "description": "100 + Sentence Embedding(NLP Resources) 👆",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 161199191,
+            "language": "Python",
+            "last_commit": "2021-04-23T09:28:48Z",
+            "owner": "Separius",
+            "repo": "awesome-sentence-embedding",
+            "stars": 2288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "44",
+          "description": "100 + Production Machine learning Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144863525,
+            "language": null,
+            "last_commit": "2026-08-12T19:22:45Z",
+            "owner": "EthicalML",
+            "repo": "awesome-production-machine-learning",
+            "stars": 20864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "45",
+          "description": "300 + Machine Learning Resources Collection 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42360601,
+            "language": null,
+            "last_commit": "2024-06-12T08:11:59Z",
+            "owner": "ujjwalkarn",
+            "repo": "Machine-Learning-Tutorials",
+            "stars": 18141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "46",
+          "description": "70 + Awesome AI 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100784668,
+            "language": null,
+            "last_commit": "2023-03-13T16:28:22Z",
+            "owner": "NirantK",
+            "repo": "awesome-project-ideas",
+            "stars": 9285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "47",
+          "description": "150 + Machine learning Project Ideas with code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94894966,
+            "language": null,
+            "last_commit": "2020-12-03T17:58:42Z",
+            "owner": "src-d",
+            "repo": "awesome-machine-learning-on-source-code",
+            "stars": 6634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "48",
+          "description": "100 + AutoML Projects with code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111381431,
+            "language": null,
+            "last_commit": "2024-06-11T16:51:05Z",
+            "owner": "hibayesian",
+            "repo": "awesome-automl-papers",
+            "stars": 4153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "49",
+          "description": "100 + Machine Learning Model Interpretability Code Frameworks 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138181193,
+            "language": null,
+            "last_commit": "2026-06-03T15:17:31Z",
+            "owner": "jphall663",
+            "repo": "awesome-machine-learning-interpretability",
+            "stars": 4060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "50",
+          "description": "120 + Multi Model Machine learning Code Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188919037,
+            "language": null,
+            "last_commit": "2024-08-20T19:46:33Z",
+            "owner": "pliang279",
+            "repo": "awesome-multimodal-ml",
+            "stars": 6926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "51",
+          "description": "Awesome Chatbot Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102067496,
+            "language": "Python",
+            "last_commit": "2026-07-28T08:44:09Z",
+            "owner": "fendouai",
+            "repo": "Awesome-Chatbot",
+            "stars": 2183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "52",
+          "description": "Awesome ML Demo Project with iOS 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134490697,
+            "language": "Python",
+            "last_commit": "2021-03-21T18:31:23Z",
+            "owner": "tucan9389",
+            "repo": "awesome-ml-demos-with-ios",
+            "stars": 1291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "53",
+          "description": "100 + Python based Machine learning Application Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90730179,
+            "language": "Python",
+            "last_commit": "2023-09-17T15:46:55Z",
+            "owner": "prateekiiest",
+            "repo": "Code-Sleep-Python",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "54",
+          "description": "100 + Reproducible Research Projects of ML and DL 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110871367,
+            "language": "Python",
+            "last_commit": "2026-08-23T19:27:01Z",
+            "owner": "leipzig",
+            "repo": "awesome-reproducible-research",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "55",
+          "description": "25 + Python Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253716239,
+            "language": "Python",
+            "last_commit": "2021-10-06T18:54:45Z",
+            "owner": "saadhaxxan",
+            "repo": "Awesome-Python-Projects",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "56",
+          "description": "8 + OpenCV Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154717517,
+            "language": "Python",
+            "last_commit": "2019-01-17T15:18:46Z",
+            "owner": "moadmmh",
+            "repo": "Awesome-OpenCV",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "57",
+          "description": "1000 + Awesome Deep learning Collection 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28723659,
+            "language": null,
+            "last_commit": "2025-05-26T12:28:00Z",
+            "owner": "ChristosChristofidis",
+            "repo": "awesome-deep-learning",
+            "stars": 28804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "58",
+          "description": "200 + Awesome NLP learning Collection 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47184304,
+            "language": null,
+            "last_commit": "2026-08-18T21:35:47Z",
+            "owner": "keon",
+            "repo": "awesome-nlp",
+            "stars": 18926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "62",
+          "description": "300+ Google Earth Engine Jupyter Notebooks to Analyze Geospatial Data 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236215206,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-16T15:05:05Z",
+            "owner": "giswqs",
+            "repo": "earthengine-py-notebooks",
+            "stars": 1554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "64.",
+          "description": "11 Computer Vision Projects with code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108717470,
+            "language": "Python",
+            "last_commit": "2022-01-04T23:03:31Z",
+            "owner": "akshaybhatia10",
+            "repo": "ComputerVision-Projects",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "65.",
+          "description": "13 Computer Vision Projects with Code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85501593,
+            "language": "Java",
+            "last_commit": "2017-03-13T20:05:01Z",
+            "owner": "anuragreddygv323",
+            "repo": "computer-vision-projects",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "68.",
+          "description": "OpenCV Computer Vision Projects with Python 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71112659,
+            "language": "Python",
+            "last_commit": "2023-01-30T09:02:09Z",
+            "owner": "PacktPublishing",
+            "repo": "OpenCV-Computer-Vision-Projects-with-Python",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "69.",
+          "description": "100 + Computer vision Algorithm Implementation 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160491129,
+            "language": null,
+            "last_commit": "2021-05-09T08:20:30Z",
+            "owner": "gmalivenko",
+            "repo": "awesome-computer-vision-models",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "70.",
+          "description": "80 + Computer vision Learning code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30907774,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-17T01:16:12Z",
+            "owner": "spmallick",
+            "repo": "learnopencv",
+            "stars": 23087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "71.",
+          "description": "Deep learning Treasure 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159091924,
+            "language": "HTML",
+            "last_commit": "2026-08-22T15:46:06Z",
+            "owner": "kmario23",
+            "repo": "deep-learning-drizzle",
+            "stars": 12934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "72",
+          "description": "Data Analysis and Machine learning Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30730072,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-21T09:06:28Z",
+            "owner": "rhiever",
+            "repo": "Data-Analysis-and-Machine-Learning-Projects",
+            "stars": 6746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "73",
+          "description": "AI Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183544482,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-03-18T10:43:58Z",
+            "owner": "leikunx",
+            "repo": "AI_projects",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "74",
+          "description": "Kaggle projects collection 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58724357,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-13T05:40:45Z",
+            "owner": "alexattia",
+            "repo": "Data-Science-Projects",
+            "stars": 1187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "75",
+          "description": "Unique AI projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126697347,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-16T18:18:39Z",
+            "owner": "robsalgado",
+            "repo": "personal_data_science_projects",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "76",
+          "description": "Data Science Project Collection 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117403324,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-01T10:58:01Z",
+            "owner": "tuangauss",
+            "repo": "DataScienceProjects",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "77",
+          "description": "Advance Data Science Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279688535,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-09-30T00:31:16Z",
+            "owner": "TheCodex-Me",
+            "repo": "Projects",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "78",
+          "description": "Deep and Machine learning Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193126777,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-09T03:30:00Z",
+            "owner": "nitinkaushik01",
+            "repo": "Deep_and_Machine_Learning_Projects",
+            "stars": 652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "79",
+          "description": "Data Science Projects kaggle 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58724357,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-13T05:40:45Z",
+            "owner": "alexattia",
+            "repo": "Data-Science-Projects",
+            "stars": 1187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "80",
+          "description": "Auto Deep learning Project 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168538768,
+            "language": "Python",
+            "last_commit": "2022-04-24T22:18:16Z",
+            "owner": "D-X-Y",
+            "repo": "AutoDL-Projects",
+            "stars": 1581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "82",
+          "description": "Amazing Hackthon Project Collection 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180506240,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-11T01:15:53Z",
+            "owner": "analyticsindiamagazine",
+            "repo": "MachineHack",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "84",
+          "description": "12 NLP Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96784293,
+            "language": "OpenEdge ABL",
+            "last_commit": "2021-01-11T05:45:19Z",
+            "owner": "gaoisbest",
+            "repo": "NLP-Projects",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "85",
+          "description": "Advance NLP Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160641376,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-18T06:40:17Z",
+            "owner": "PacktPublishing",
+            "repo": "Advanced-NLP-Projects-with-TensorFlow-2.0",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "86",
+          "description": "6 Amazing NLP Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 265810668,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-11-10T11:43:27Z",
+            "owner": "anujvyas",
+            "repo": "Natural-Language-Processing-Projects",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "87",
+          "description": "NLP Beginner Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270245861,
+            "language": "Python",
+            "last_commit": "2020-06-21T00:17:32Z",
+            "owner": "positivepeng",
+            "repo": "nlp-beginner-projects",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "88",
+          "description": "Paper with Code by PwC Collection 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147081519,
+            "language": null,
+            "last_commit": "2020-01-16T21:38:24Z",
+            "owner": "zziz",
+            "repo": "pwc",
+            "stars": 15315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "89",
+          "description": "SOTA Models(State of the Art Results) 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110050572,
+            "language": null,
+            "last_commit": "2019-06-25T14:09:52Z",
+            "owner": "RedditSota",
+            "repo": "state-of-the-art-result-for-machine-learning-problems",
+            "stars": 8893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "90",
+          "description": "Best AI Papers 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 323126831,
+            "language": null,
+            "last_commit": "2022-01-28T15:27:50Z",
+            "owner": "louisfb01",
+            "repo": "Best_AI_paper_2020",
+            "stars": 2241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "91",
+          "description": "Generative Adversarial nets 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69095137,
+            "language": null,
+            "last_commit": "2022-10-31T08:39:47Z",
+            "owner": "zhangqianhui",
+            "repo": "AdversarialNetsPapers",
+            "stars": 6570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "92",
+          "description": "Computer Vision Paper with Code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 347364162,
+            "language": null,
+            "last_commit": "2024-04-25T14:34:34Z",
+            "owner": "DWCTOD",
+            "repo": "CVPR2024-Papers-with-Code-Demo",
+            "stars": 1411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "93",
+          "description": "NILMS Paper with code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 225835787,
+            "language": null,
+            "last_commit": "2024-01-19T15:03:03Z",
+            "owner": "klemenjak",
+            "repo": "nilm-papers-with-code",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "94",
+          "description": "3D Computer Vision Research Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242293865,
+            "language": null,
+            "last_commit": "2023-05-30T11:02:04Z",
+            "owner": "Hardy-Uint",
+            "repo": "awesome-3D-vision",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "95",
+          "description": "NLP and Computer Vision Project Collection 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92406958,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-06-14T08:33:33Z",
+            "owner": "NELSONZHAO",
+            "repo": "zhihu",
+            "stars": 3522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "96",
+          "description": "Udacity Collection of Computer Vision Projects 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151521631,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-01-18T12:58:13Z",
+            "owner": "Bjarten",
+            "repo": "computer-vision-ND",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "97",
+          "description": "Zero to Hero Tensorflow Tutorial 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315463340,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-19T05:32:17Z",
+            "owner": "mrdbourke",
+            "repo": "tensorflow-deep-learning",
+            "stars": 5940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "98",
+          "description": "Deep learning in Production 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266501437,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-01T22:00:03Z",
+            "owner": "The-AI-Summer",
+            "repo": "Deep-Learning-In-Production",
+            "stars": 1264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "99",
+          "description": "GANs Collection 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272206315,
+            "language": "Python",
+            "last_commit": "2020-10-07T14:14:03Z",
+            "owner": "The-AI-Summer",
+            "repo": "GANs-in-Computer-Vision",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "100",
+          "description": "Time Series Projects Code 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199500427,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-08-14T11:17:59Z",
+            "owner": "deshpandenu",
+            "repo": "Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-",
+            "stars": 456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "103",
+          "description": "Learning Material for Deep Learning, ML, Computer Vision and NLP 👆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159091924,
+            "language": "HTML",
+            "last_commit": "2026-08-22T15:46:06Z",
+            "owner": "kmario23",
+            "repo": "deep-learning-drizzle",
+            "stars": 12934
+          }
+        }
+      ],
+      "title": "500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:57:40.888Z",
+    "last_updated": "2026-08-24T13:51:37.593Z",
     "original_repository": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
     "original_repository_id": 326174741,
     "original_repository_sha": "5f104458e9e081bf0b24df78bbe3bc839edca899",
