@@ -60,7 +60,7 @@
             "last_commit": "2026-07-15T02:19:53Z",
             "owner": "aymericdamien",
             "repo": "TopDeepLearning",
-            "stars": 6294
+            "stars": 6295
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-26T21:09:24Z",
+            "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74176
+            "stars": 74181
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316373
+            "stars": 316439
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2024-05-10T07:38:24Z",
             "owner": "fighting41love",
             "repo": "funNLP",
-            "stars": 82712
+            "stars": 82715
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-06-17T05:43:09Z",
             "owner": "likedan",
             "repo": "Awesome-CoreML-Models",
-            "stars": 7044
+            "stars": 7045
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-26T05:40:57Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20869
+            "stars": 20870
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2023-03-13T16:28:22Z",
             "owner": "NirantK",
             "repo": "awesome-project-ideas",
-            "stars": 9291
+            "stars": 9293
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-26T13:51:18Z",
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28814
+            "stars": 28816
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-22T15:46:06Z",
             "owner": "kmario23",
             "repo": "deep-learning-drizzle",
-            "stars": 12934
+            "stars": 12935
           }
         },
         {
@@ -855,7 +855,7 @@
             "last_commit": "2021-06-14T08:33:33Z",
             "owner": "NELSONZHAO",
             "repo": "zhihu",
-            "stars": 3522
+            "stars": 3521
           }
         },
         {
@@ -945,7 +945,7 @@
             "last_commit": "2026-08-22T15:46:06Z",
             "owner": "kmario23",
             "repo": "deep-learning-drizzle",
-            "stars": 12934
+            "stars": 12935
           }
         }
       ],
@@ -953,7 +953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:17:47.204Z",
+    "last_updated": "2026-08-27T16:34:42.285Z",
     "original_repository_info": {
       "archived": false,
       "id": 326174741,
@@ -961,7 +961,7 @@
       "last_commit": "2025-08-01T11:54:09Z",
       "owner": "ashishpatel26",
       "repo": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "stars": 36576
+      "stars": 36584
     },
     "original_repository_sha": "5f104458e9e081bf0b24df78bbe3bc839edca899",
     "enhanced_repository": "enhansome/enhansome-500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
