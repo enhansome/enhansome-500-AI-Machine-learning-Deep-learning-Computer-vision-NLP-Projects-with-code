@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "ashishpatel26",
             "repo": "365-Days-Computer-Vision-Learning-Linkedin-Post",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "computer-vision",
               "cvpr",
@@ -99,7 +99,7 @@
             "open_issues": 3,
             "owner": "ashishpatel26",
             "repo": "Andrew-NG-Notes",
-            "stars": 3830,
+            "stars": 3832,
             "topics": [
               "andrew-ng",
               "andrew-ng-course",
@@ -163,7 +163,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T16:49:00Z",
-            "open_issues": 22,
+            "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
             "stars": 74518,
@@ -187,7 +187,7 @@
             "open_issues": 99,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23588,
+            "stars": 23587,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:36.760Z"
@@ -244,10 +244,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 22,
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 325051,
+            "stars": 325294,
             "topics": [
               "awesome",
               "awesome-list",
@@ -275,7 +275,7 @@
             "open_issues": 54,
             "owner": "fighting41love",
             "repo": "funNLP",
-            "stars": 83654,
+            "stars": 83680,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:36.760Z"
@@ -444,7 +444,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-03T12:11:51Z",
-            "open_issues": 37,
+            "open_issues": 39,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
             "stars": 20969,
@@ -488,7 +488,7 @@
             "open_issues": 49,
             "owner": "ujjwalkarn",
             "repo": "Machine-Learning-Tutorials",
-            "stars": 18250,
+            "stars": 18252,
             "topics": [
               "awesome",
               "awesome-list",
@@ -521,7 +521,7 @@
             "open_issues": 7,
             "owner": "NirantK",
             "repo": "awesome-project-ideas",
-            "stars": 9332,
+            "stars": 9333,
             "topics": [
               "awesome",
               "awesome-list",
@@ -553,7 +553,7 @@
             "open_issues": 8,
             "owner": "src-d",
             "repo": "awesome-machine-learning-on-source-code",
-            "stars": 6645,
+            "stars": 6646,
             "topics": [
               "awesome",
               "awesome-list",
@@ -605,7 +605,7 @@
             "open_issues": 27,
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4071,
+            "stars": 4070,
             "topics": [
               "ai-safety",
               "awesome",
@@ -774,10 +774,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-03T15:10:53Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
-            "stars": 406,
+            "stars": 405,
             "topics": [
               "awesome",
               "awesome-list",
@@ -858,10 +858,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
-            "open_issues": 88,
+            "open_issues": 90,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29009,
+            "stars": 29010,
             "topics": [
               "awesome",
               "awesome-list",
@@ -889,10 +889,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19054,
+            "stars": 19056,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1098,7 +1098,7 @@
             "open_issues": 5,
             "owner": "kmario23",
             "repo": "deep-learning-drizzle",
-            "stars": 12960,
+            "stars": 12959,
             "topics": [
               "artificial-intelligence-algorithms",
               "artificial-neural-networks",
@@ -1140,7 +1140,7 @@
             "open_issues": 15,
             "owner": "rhiever",
             "repo": "Data-Analysis-and-Machine-Learning-Projects",
-            "stars": 6764,
+            "stars": 6765,
             "topics": [
               "data-analysis",
               "data-science",
@@ -1262,7 +1262,7 @@
             "open_issues": 1,
             "owner": "TheCodex-Me",
             "repo": "Projects",
-            "stars": 189,
+            "stars": 190,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:36.760Z"
@@ -1283,7 +1283,7 @@
             "open_issues": 11,
             "owner": "nitinkaushik01",
             "repo": "Deep_and_Machine_Learning_Projects",
-            "stars": 660,
+            "stars": 659,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:36.760Z"
@@ -1379,7 +1379,7 @@
             "open_issues": 1,
             "owner": "gaoisbest",
             "repo": "NLP-Projects",
-            "stars": 585,
+            "stars": 584,
             "topics": [
               "dialogue-systems",
               "information-extraction",
@@ -1486,7 +1486,7 @@
             "open_issues": 25,
             "owner": "zziz",
             "repo": "pwc",
-            "stars": 15304,
+            "stars": 15303,
             "topics": [
               "code",
               "cvpr",
@@ -1579,7 +1579,7 @@
             "open_issues": 5,
             "owner": "zhangqianhui",
             "repo": "AdversarialNetsPapers",
-            "stars": 6571,
+            "stars": 6570,
             "topics": [
               "adversarial-networks",
               "deep-learning",
@@ -1690,7 +1690,7 @@
             "open_issues": 32,
             "owner": "NELSONZHAO",
             "repo": "zhihu",
-            "stars": 3522,
+            "stars": 3523,
             "topics": [
               "autoencoder",
               "convolutional-neural-networks",
@@ -1763,7 +1763,7 @@
             "open_issues": 69,
             "owner": "mrdbourke",
             "repo": "tensorflow-deep-learning",
-            "stars": 5944,
+            "stars": 5943,
             "topics": [
               "curriculum",
               "deep-learning",
@@ -1877,7 +1877,7 @@
             "open_issues": 5,
             "owner": "kmario23",
             "repo": "deep-learning-drizzle",
-            "stars": 12960,
+            "stars": 12959,
             "topics": [
               "artificial-intelligence-algorithms",
               "artificial-neural-networks",
@@ -1908,7 +1908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:10:08.878Z",
+    "last_updated": "2026-10-05T12:23:10.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
@@ -1920,7 +1920,7 @@
       "open_issues": 69,
       "owner": "ashishpatel26",
       "repo": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-      "stars": 37094,
+      "stars": 37106,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-projects",
