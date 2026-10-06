@@ -166,7 +166,7 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74530,
+            "stars": 74531,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:36.760Z"
@@ -247,7 +247,7 @@
             "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 325508,
+            "stars": 325523,
             "topics": [
               "awesome",
               "awesome-list",
@@ -275,7 +275,7 @@
             "open_issues": 54,
             "owner": "fighting41love",
             "repo": "funNLP",
-            "stars": 83708,
+            "stars": 83710,
             "topics": []
           },
           "first_seen": "2026-08-28T17:29:36.760Z"
@@ -447,7 +447,7 @@
             "open_issues": 40,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20969,
+            "stars": 20970,
             "topics": [
               "awesome",
               "awesome-list",
@@ -861,7 +861,7 @@
             "open_issues": 90,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29012,
+            "stars": 29013,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1908,7 +1908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:13:54.369Z",
+    "last_updated": "2026-10-06T12:06:02.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
